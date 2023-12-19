@@ -1,0 +1,81 @@
+<resources>
+    <string name="app_name">recyclerview</string>
+    <string name="judul">judul</string>
+    <string name="description">description</string>
+    <string-array name="judul_video">
+        <item>Pisang Goreng Ngap Ngap</item>
+        <item>Perut Ehsan</item>
+        <item>Indahnya Ramadhan</item>
+        <item>Kawan-Kawan Hilang</item>
+        <item>Opah Merajuk</item>
+        <item>Aku Sebuah Pensel</item>
+        <item>Pisang Goreng Ngap Ngap 2</item>
+        <item>Indahnya Ramadhan 2</item>
+        <item>Opah Merajuk 2</item>
+        <item>Aku Sebuah Pensel 2 </item>
+        <item>Kawan-Kawan Hilang 2</item>
+        <item>Pisang Goreng Ngap Ngap 2</item>
+        <item>Perut Ehsan 2</item>
+        <item>Indahnya Ramadhan 3</item>
+        <item>Opah Merajuk</item>
+    </string-array>
+    <string-array name="data_dekripsi">
+        <item>Mereka belajar tentang pentingnya puasa dan berusaha untuk menjalankan ibadah puasa dengan baik. Namun, dalam perjalanan mereka, mereka mengalami berbagai macam kesulitan dan rintangan yang menguji kesabarannya.</item>
+        <item>Upin dan Ipin adalah serial animasi yang populer dari Malaysia, yang mengisahkan petualangan dua saudara kembar dan teman-teman mereka.</item>
+        <item>Upin dan Ipin adalah serial animasi yang populer dari Malaysia, yang mengisahkan petualangan dua saudara kembar dan teman-teman mereka.</item>
+        <item>Upin dan Ipin adalah serial animasi yang populer dari Malaysia, yang mengisahkan petualangan dua saudara kembar dan teman-teman mereka.</item>
+        <item>berasal dari bangsa manusia benar-benar terkejut.</item>
+        <item>
+        Bercerita tentang beberapa plot utama dari manga asli yang belum diadaptasi dan diceritakan dalam serial anime Horimiya.
+        Sebelumnya, terdapat beberapa bab manga yang memang dilompati sehingga belum muncul dalam versi animenya.
+        Horimiya menceritakan kisah romantis ala anak sekolah yang diwakili oleh karakter Izumi Miyamura dan Kyouko Hori. Mereka adalah dua siswa yang menampilkan  antara di sekolah dan di luar, di mana tak satupun orang yang mengetahui itu.
+        Hubungan Hori dan Miyamura bermula sejak pertemuan keduanya di luar sekolah. Mereka sepakat untuk saling menjaga rahasia, lalu selanjutnya mulai membangun hubungan yang mungkin tak pernah mereka perkirakan sebelumnya.</item>
+        <item>yang digarap oleh studio terkenal, MAPPA. Tak hanya itu saja,  ini juga merupakan  yang kembali disutradarai oleh Park Seong Hu dan akan mengisahkan seorang anak SMA yang kehidupannya secara tiba-tiba berubah. Untuk kamu pecinta anime fantasi supernatural seperti Jujutsu Kaisen, jangan sampai kelewatan untuk menyaksikannya di Viu segera pada bulan Agustus.
+        Jtentang kehidupan upin ipin, seorang pelajar SMA yang ternyata memiliki kekuatan fisik luar biasa. Pada awalnya, dia menjalani hari-hari sebagai anak SMA biasa, tetapi kemudian hidupnya berupah pada saat dia harus membantu teman-temannya yang menghadapi bahaya karena sebuah kutukan. Suatu ketika Yuuji mengingat sebuah wasiat yang pernah disampaikan kepadanya dari sang kakek. Ternyata, untuk menyelamatkan teman-temannya dia harus menjadi penyihir Jujutsu agar memiliki kekuatan yang lebih besar dari kutukan itu.</item>
+        <item>musim kedua dari serial anime, Mushoku Tensei Jobless Reincarnation Musim Dua (2021) tayang perdana pada Oktober 2021. Musim pertama disiarkan pada Januari 2021. Ini menceritakan kisah protagonis pria yang sebelumnya adalah seorang NEET. reinkarnasinya dan terlahir kembali di dunia lain sebagai anak laki-laki bernama Rudeus karena kecelakaan lalu lintas. Setelah diusir dari rumah orang tuanya pada hari pemakaman mereka, seorang NEET pengangguran berusia 34 tahun ditabrak truk dan menemukan dirinya bereinkarnasi di dunia pedang dan sihir, dalam tubuh seorang tuan muda yang mulia bernama Rudeus. Dihadapkan dengan kesempatan hidup baru yang diberikan kepadanya oleh dewa takdir, dia bertekad untuk menjalani kehidupan yang tidak akan dia sesali di dunia ini. Terlepas dari tekad ambisius ini, sifat Rudeus sebagai orang yang tidak berguna muncul lagi dan lagi. Dengan bantuan guru perempuannya, ia berusaha untuk mempelajari berbagai macam sihir dan bertemu dengan peri seperempat darah dengan rambut zamrud yang indah. Hidup dengan sekelompok gadis cantik di dunia lain, kehidupan Rudeus mulai bergerak maju… Serial anime Mushoku Tensei: Jobless Reincarnation diadaptasi dari web novel dengan nama yang sama, dan dibagi menjadi dua musim. Novel web asli Mushoku Tensei: Jobless Reincarnation memenangkan hadiah utama dalam Novel Web Kono ga Sugoi! pada tahun 2015. Anime ini menggunakan suara Yumi Uchiyama (Cells at Work! Code Black), Ai Kayano (The Case Study of Vanitas), Sugita Tomokazu (JoJo\'s Bizarre Adventure, The Seven Deadly Sins), dan banyak lagi.</item>
+        <item>Kami melakukan percakapan ini dengan ros tepat di sebelah kami. Aku benar-benar berharap Haru berhenti mempertanyakan fakta itu, tetapi semua yang penting bagiku tersebar di tanah, jadi situasi ini sudah tidak dapat diperbaiki lagi. Berbohong tidak akan ada gunanya bagi siapa pun, jadi aku hanya menjawab pertanyaan Haru dengan jujur, dan sedikit kepasrahan bercampur di dalamnya.
+        Dia terus melihat antara aku dan ros yang menyerangku, dan malah terasa seperti ada lubang di kepalaku. aku bahkan tidak dapat menemukan kata yang tepat untuk menjelaskan perasaan dingin yang aku miliki ini, aku juga tidak tahu bagaimana menghentikannya.</item>
+        <item>Upin dan Ipin adalah serial animasi yang populer dari Malaysia, yang mengisahkan petualangan dua saudara kembar dan teman-teman mereka.</item>
+        <item>Begitu matang menjadi daya pikat tersendiri dari sosok Pastry. Jika terus menerus terlibat isi politik dan wilayah yang terus berlanjut, akankah Pastry bisa membangun negeri jajanan manis seperti yang ia impikan? </item>
+        <item>Laporan tersebut dikonfirmasi di stan Kadokawa di Anime Expo pada hari yang sama dan diumumkan bahwa adaptasi seri tersebut akan menjadi seri televisi.[68] Seri 2 cour ini dianimasikan oleh Millepensee dan disutradarai oleh Shin Itagaki, dengan Okina Baba dan Yūichirō Momose menjadi penulis skenario, Kii Tanaka yang mendesain karakter, dan Shūji Katayama sebagai pencipta musiknya. Seri ini diproduseri oleh Jōtarō Ishigami. Riko Azuna akan membawakan lagu tema pembuka seri tersebut "keep weaving your spider way", sementara Aoi Yūki akan membawakan lagu tema penutup "Gambare! Kumoko-san."[68] Seri ini awalnya akan tayang perdana pada tahun 2020,[69] akan tetapi dijadwalkan ulang rilis pada Januari 2021 karena pandemi COVID-19.[70] dan seri ini dilisensikan oleh Crunchyroll.[71]</item>
+        <item>Berkat perpindahan pekerjaan orang tuanya, Ros yang baru masuk SMA akhirnya bisa menikmati hidup sendiri. Ibunya menyuruhnya tinggal di Kawai Complex, sebuah rumah kos yang menyediakan makanan untuk penghuninya. Ritsu, senpai yang dia kagumi, juga tinggal di Kawai Complex, di sana juga dapat ditemui beberapa individu "unik": Shirosaki, novelis yang menjadi teman sekamarnya yang masokis; Mayumi, wanita kantor montok yang cantik tetapi memiliki nasib buruk dengan laki-laki; dan Sayaka, seorang mahasiswa licik dan pemangsa. Dikelilingi oleh orang-orang yang seperti itu, Usa menemukan kehidupan sehari-harinya tidak damai dan tidak membosankan. Ketika seri berlangsung, Usa dan Ritsu secara bertahap menjadi teman dekat, dan perasaan satu sama lain tumbuh lebih kuat. Setelah serangkaian kesalahpahaman, termasuk keyakinan Usa bahwa Ritsu telah mencintai teman sekelasnya dan Ritsu berpikir bahwa Usa terlalu baik daripada memberikan padanya perhatian yang tulus, keduanya akhirnya menjadi pasangan menjelang akhir tahun kedua Usa di sekolah menengah.</item>
+        <item>Upin dan Ipin adalah serial animasi yang populer dari Malaysia, yang mengisahkan petualangan dua saudara kembar dan teman-teman mereka.</item>
+        <item>Upin dan Ipin adalah serial animasi yang populer dari Malaysia, yang mengisahkan petualangan dua saudara kembar dan teman-teman mereka.</item>
+    </string-array>
+    <array name="video_id">
+        <item>@raw/upin01</item>
+        <item>@raw/upin02</item>
+        <item>@raw/upin03</item>
+        <item>@raw/upin04</item>
+        <item>@raw/upin05</item>
+        <item>@raw/upin06</item>
+        <item>@raw/upin07</item>
+        <item>@raw/upin14</item>
+        <item>@raw/upin09</item>
+        <item>@raw/upin10</item>
+        <item>@raw/upin11</item>
+        <item>@raw/upin12</item>
+        <item>@raw/upin13</item>
+        <item>@raw/upin14</item>
+        <item>@raw/upin05</item>
+    </array>
+
+
+    <integer-array name="data_gambar">
+        <item>@drawable/upin</item>
+        <item>@drawable/ehsansakit</item>
+        <item>@drawable/ehsan</item>
+        <item>@drawable/fizi</item>
+        <item>@drawable/opah</item>
+        <item>@drawable/opet</item>
+        <item>@drawable/upin</item>
+        <item>@drawable/ehsan</item>
+        <item>@drawable/opah</item>
+        <item>@drawable/opet</item>
+        <item>@drawable/fizi02</item>
+        <item>@drawable/upin</item>
+        <item>@drawable/ehsansakit</item>
+        <item>@drawable/ehsan</item>
+        <item>@drawable/opah</item>
+    </integer-array>
+</resources>
